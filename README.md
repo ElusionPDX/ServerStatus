@@ -3,4 +3,4 @@
 
 Resource for restarting your server. This resource is fully editable from config.lua 
 <br>
-<img src="https://imgur.com/a/ruIX9Me">
+<img src="https://imgur.com/gallery/kDIYY45">

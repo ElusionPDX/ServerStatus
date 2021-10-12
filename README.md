@@ -45,3 +45,6 @@ WebHook Log
 <img src="https://imgur.com/wbV7gX0.png">
 <br>
 <br>
+# ⚠️ ATTENTION
+<br>
+The server.lua file is encrypted. This system was used for people who steal other people's scripts to make them their own 

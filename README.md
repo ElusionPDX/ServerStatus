@@ -48,4 +48,4 @@ WebHook Log
 <br>
 # ⚠️ ATTENTION
 <br>
-The server.lua file is encrypted. This system was used for people who steal other people's scripts to make them their own 
+

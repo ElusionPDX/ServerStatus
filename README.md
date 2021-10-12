@@ -12,7 +12,7 @@ Resource for restarting your server. This resource is fully editable from config
 - Add this in your `server.cfg`:
 
 ```
-start ServerStatus
+start EN_ServerStatus
 ```
 - Add this in your `servercfg` ace:
 

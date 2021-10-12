@@ -2,7 +2,7 @@ Config                              = {}
 
 Config.Locale                       = 'en'
 
-Config.NameCommandRestarter         = 'restart'
+Config.AdminGroup                   = {"admin","superadmin"} -- groups that can use admin commands
 
 local seconds 			            = 1000                  -- 1 second
 local minutes  			            = 60 * seconds          -- 1 minute

@@ -1,11 +1,10 @@
-Config                              = {}
 
 Config.Locale                       = 'en'
 
 Config.AdminGroup                   = {"admin","superadmin"} -- groups that can use admin commands
 
-local seconds 			                = 1000                  -- 1 second
-local minutes  			                = 60 * seconds          -- 1 minute
+local seconds 			            = 1000                  -- 1 second
+local minutes  			            = 60 * seconds          -- 1 minute
 
 Config.Tempo          	            = 5 * minutes           -- 5 minutes
 
@@ -23,9 +22,9 @@ Config.TextFooterWebHook            = "Text for the footer the WebHook"
 
 Config.WebhookLogs                  = "Put your WebHook here for log sending restarting server"
 
-Config.green 				                = 56108
-Config.grey 				                = 8421504
-Config.red 					                = 16711680
-Config.orange 				              = 16744192
-Config.blue 				                = 2061822
-Config.purple 				              = 11750815
+Config.green 				        = 56108
+Config.grey 				        = 8421504
+Config.red 					        = 16711680
+Config.orange 				        = 16744192
+Config.blue 				        = 2061822
+Config.purple 				        = 11750815
